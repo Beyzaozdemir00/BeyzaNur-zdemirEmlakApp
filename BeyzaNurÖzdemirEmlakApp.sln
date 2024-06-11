@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeyzaNurÖzdemirEmlakApp", "BeyzaNurÖzdemirEmlakApp\BeyzaNurÖzdemirEmlakApp.csproj", "{4344A3C4-D7C8-4881-81BA-CF9C0B00376A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvlerLib", "EvlerLib\EvlerLib.csproj", "{C5559B4B-CEC0-416A-A436-9044B8A4ED98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4344A3C4-D7C8-4881-81BA-CF9C0B00376A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4344A3C4-D7C8-4881-81BA-CF9C0B00376A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4344A3C4-D7C8-4881-81BA-CF9C0B00376A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4344A3C4-D7C8-4881-81BA-CF9C0B00376A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5559B4B-CEC0-416A-A436-9044B8A4ED98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5559B4B-CEC0-416A-A436-9044B8A4ED98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5559B4B-CEC0-416A-A436-9044B8A4ED98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5559B4B-CEC0-416A-A436-9044B8A4ED98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67599841-1B88-483D-B7FE-A8917C127C04}
+	EndGlobalSection
+EndGlobal
